@@ -5,7 +5,7 @@
 
 # 👋 Hey, I'm Anish Das
 
-### Student Developer · Electrical Engineering · Curious Builder
+### Student Developer · CSE Engeneer · Curious Builder
 
 *Learning, building, breaking things, and making them work again.*
 
@@ -59,17 +59,17 @@
 
 ---
 
-## 📈 Contribution Activity & Commit Graph
+
+## 📈 Contribution Activity & Commit History
 
 <div align="center">
 
-<a href="https://github.com/anish3011">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish3011&bg_color=0d1117&color=72F2C8&line=0D766E&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-</a>
+![GitHub Stats](https://ghstats.dev/api/card?username=anish3011&theme=tokyonight)
 
-[**View my GitHub contribution history →**](https://github.com/anish3011)
+[**View my full contribution history →**](https://github.com/anish3011)
 
 </div>
+
 
 ---
 
@@ -85,11 +85,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anish3011&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
+![GitHub Stars](https://img.shields.io/github/stars/anish3011?style=for-the-badge&logo=github&label=TOTAL%20STARS)
+
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fanish3011&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&logo=github)
+
+[**Explore my repositories →**](https://github.com/anish3011?tab=repositories)
 
 </div>
 
