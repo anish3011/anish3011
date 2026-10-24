@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Anish Das
 
-### Student Developer · Electrical Engineering · Curious Builder
+### Student Developer · CSE Student · Curious Builder
 
 *Learning, building, breaking things, and making them work again.*
 
